@@ -11,7 +11,7 @@ In normal math, division is the opposite of multiplication:
 
 And so on. We can use this as the definition of division to help us. Note that like normal math, you cannot divide by 0.
 
-In \\(F_{19}\\, we know that:
+In \\(F_{19}\\), we know that:
 
 3⋅7=21%19=2 implies that 2/7=3
 
